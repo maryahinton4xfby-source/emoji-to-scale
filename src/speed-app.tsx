@@ -10,6 +10,7 @@ import {
 } from 'react';
 import type { CSSProperties } from 'react';
 import type { EmojiSpeedData } from './db';
+import { inkVars } from './emoji-geometry';
 import { SPEED_CATEGORIES } from './speed-categories';
 
 // Vertical px between lanes — controls scroll-to-lane mapping and lane height.
@@ -190,6 +191,12 @@ function EmojiToSpeed({ data }: { data: EmojiSpeedData[] }) {
         ).toFixed(3);
 
         // Primary copy at x, wrap copy one loop-width behind, for seamless loop.
+        // BOTH are written every frame, unconditionally. Skipping the wrap copy
+        // while it is off-screen looks like free work to save, and it is not:
+        // the glyph overflows this 140px box (a rotated one — 🚀, ☄️ — spans
+        // ~170px), so it is already on screen when the box is not, and toggling
+        // its `will-change` re-rasterizes the layer mid-flight. Both show up as
+        // emojis popping into view. Not a trade worth any number of writes.
         if (copies) {
           if (copies[0]) {
             copies[0].style.transform = `translateX(${x}px)`;
@@ -282,7 +289,7 @@ function EmojiToSpeed({ data }: { data: EmojiSpeedData[] }) {
         role="region"
         aria-label="Emoji speed comparison"
       >
-        {data.map(({ emoji, speed, label, source }, idx) => {
+        {data.map(({ emoji, speed, label, source, boundingBox }, idx) => {
           // Extra speed-renderer-only transform for this emoji, if configured.
           const extraTransform = EMOJI_TRANSFORMS[emoji];
           const speedText = parseSpeed(speed);
@@ -300,7 +307,8 @@ function EmojiToSpeed({ data }: { data: EmojiSpeedData[] }) {
                 {source ? (
                   <details className="speed-source-details">
                     <summary>
-                      {speedText} <span className="speed-source-toggle">[?]</span>
+                      {speedText}{' '}
+                      <span className="speed-source-toggle">[?]</span>
                     </summary>
                     <span className="speed-source">
                       {source.description}
@@ -336,13 +344,14 @@ function EmojiToSpeed({ data }: { data: EmojiSpeedData[] }) {
                 >
                   <span
                     className="emoji-glyph"
-                    style={
-                      extraTransform
+                    style={{
+                      ...inkVars(boundingBox),
+                      ...(extraTransform
                         ? ({
                             '--emoji-extra-transform': extraTransform,
                           } as CSSProperties)
-                        : undefined
-                    }
+                        : null),
+                    }}
                   >
                     {emoji}
                   </span>

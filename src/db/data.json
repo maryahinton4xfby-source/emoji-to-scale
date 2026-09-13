@@ -15,7 +15,10 @@
         "url": "https://en.wikipedia.org/wiki/Saturn_V",
         "description": "The 111 m Saturn V accelerated the Apollo spacecraft to orbital velocity, roughly 28,000 km/h (about 7.8 km/s)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [4.2, 0.5, 1.2, 0.5]
+    }
   },
   "☄️": {
     "tags": ["nature"],
@@ -33,7 +36,10 @@
         "url": "https://en.wikipedia.org/wiki/Halley%27s_Comet",
         "description": "Halley's Comet has a nucleus about 15 km long; at perihelion it races past the Sun at around 254,000 km/h (70.56 km/s)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 1.3, 2.5, 1.3]
+    }
   },
   "🏎️": {
     "tags": ["objects"],
@@ -51,7 +57,10 @@
         "url": "https://en.wikipedia.org/wiki/Formula_One_car",
         "description": "A Formula One car stands only about 0.95 m tall and reaches top speeds near 375 km/h (233 mph)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [41.8, 0, 3, 0]
+    }
   },
   "🏍️": {
     "tags": ["objects"],
@@ -69,7 +78,10 @@
         "url": "https://en.wikipedia.org/wiki/Suzuki_Hayabusa",
         "description": "A Suzuki Hayabusa is about 1.16 m tall and tops out around 300 km/h (early models hit 312 km/h before speed-limiting agreements)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [31.8, 0, 3, 0.8]
+    }
   },
   "🚤": {
     "tags": ["objects"],
@@ -87,7 +99,10 @@
         "url": "https://en.wikipedia.org/wiki/Spirit_of_Australia",
         "description": "Ken Warby's Spirit of Australia, a jet-powered hydroplane, set the world water speed record of 511 km/h (318 mph) in 1978 — still unbeaten."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [49.3, 0, 2.5, 0.5]
+    }
   },
   "🎿": {
     "tags": ["objects"],
@@ -105,7 +120,10 @@
         "url": "https://en.wikipedia.org/wiki/Speed_skiing",
         "description": "The men's speed-skiing world record is 255.5 km/h, set by Simon Billy in Vars, France in 2023."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 7.5, 0, 7.5]
+    }
   },
   "🦇": {
     "tags": ["animals"],
@@ -123,7 +141,10 @@
         "url": "https://en.wikipedia.org/wiki/Mexican_free-tailed_bat",
         "description": "The Mexican free-tailed bat, about 9 cm long, has been radar-tracked in level flight at up to 160 km/h — the fastest horizontal flight of any animal."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [3, 1.3, 0.8, 10.5]
+    }
   },
   "🕊️": {
     "tags": ["animals"],
@@ -141,7 +162,10 @@
         "url": "https://en.wikipedia.org/wiki/Homing_pigeon",
         "description": "A homing pigeon averages about 97 km/h over long distances; top racers have been clocked up to 160 km/h with a tailwind."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.7, 7.5, 2, 2.5]
+    }
   },
   "🛷": {
     "tags": ["objects"],
@@ -159,7 +183,10 @@
         "url": "https://en.wikipedia.org/wiki/Luge",
         "description": "A competition luge slider reaches about 140 km/h (the track record is ~154 km/h) lying on a small sled."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [19.3, 0.5, 13, 0.5]
+    }
   },
   "🦥": {
     "tags": ["animals"],
@@ -177,7 +204,10 @@
         "url": "https://en.wikipedia.org/wiki/Three-toed_sloth",
         "description": "A three-toed sloth is about 45 cm long and tops out around 0.27 km/h (4.6 m/min, in the trees) — the slowest land mammal."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 0, 0.8, 0]
+    }
   },
   "🐬": {
     "tags": ["animals"],
@@ -195,7 +225,10 @@
         "url": "https://en.wikipedia.org/wiki/Bottlenose_dolphin",
         "description": "A common bottlenose dolphin is about 3 m long and can burst up to about 35 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [2.5, 8.8, 3.3, 7.5]
+    }
   },
   "🐊": {
     "tags": ["animals"],
@@ -213,7 +246,10 @@
         "url": "https://en.wikipedia.org/wiki/Saltwater_crocodile",
         "description": "A large male saltwater crocodile reaches about 6 m in length and can swim in short bursts of about 24-29 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 3, 1.2, 1.3]
+    }
   },
   "🦈": {
     "tags": ["animals"],
@@ -231,7 +267,10 @@
         "url": "https://www.nationalgeographic.com/animals/fish/facts/great-white-shark",
         "description": "A large great white shark is about 5 m long (range 3.5-6 m) and can reach burst speeds approaching 50 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 0, 2.5, 2.5]
+    }
   },
   "🛸": {
     "tags": ["objects"],
@@ -255,7 +294,10 @@
         "url": "https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting",
         "description": "Kenneth Arnold, whose 1947 sighting coined the term 'flying saucer', estimated the objects' speed at no less than 1,200 mph (~1,930 km/h)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [25.5, 0, 26.7, 1.3]
+    }
   },
   "🚅": {
     "tags": ["objects"],
@@ -273,7 +315,10 @@
         "url": "https://en.wikipedia.org/wiki/N700_Series_Shinkansen",
         "description": "An N700 series Shinkansen (Japanese bullet train) car is about 3.63 m tall and runs at a maximum operating speed of 300 km/h (on the San'yō line)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [21.3, 0, 3, 0.5]
+    }
   },
   "🌪️": {
     "tags": ["nature"],
@@ -297,7 +342,10 @@
         "url": "https://en.wikipedia.org/wiki/1999_Bridge_Creek%E2%80%93Moore_tornado",
         "description": "The highest tornado wind speed ever measured was about 517 km/h (321 mph, after 2021 reanalysis) in the 1999 Bridge Creek-Moore tornado."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 4.2, 0, 11]
+    }
   },
   "📡": {
     "tags": ["objects"],
@@ -312,7 +360,10 @@
         "url": "https://en.wikipedia.org/wiki/Lovell_Telescope",
         "description": "The Lovell Telescope at Jodrell Bank, a steerable dish radio telescope, stands about 89 m tall (76 m dish)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 1.3, 0.5, 0.8]
+    }
   },
   "🛕": {
     "tags": ["landmarks"],
@@ -327,7 +378,10 @@
         "url": "https://en.wikipedia.org/wiki/List_of_tallest_gopurams",
         "description": "The Rajagopuram of Sri Ranganathaswamy Temple, Srirangam, is the tallest gopuram at 73 m."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 12.5, 0, 13.3]
+    }
   },
   "🛖": {
     "tags": ["objects"],
@@ -342,7 +396,10 @@
         "url": "https://en.wikipedia.org/wiki/Rondavel",
         "description": "A traditional African rondavel (round thatched hut) stands roughly 4 m tall (walls plus a conical roof rising 2-4 m)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [6.3, 1.8, 5.5, 1.8]
+    }
   },
   "🚁": {
     "tags": ["objects"],
@@ -360,7 +417,10 @@
         "url": "https://en.wikipedia.org/wiki/Bell_206",
         "description": "A Bell 206 JetRanger, a common light helicopter, is 2.85 m tall on its skids and has a maximum speed of about 226 km/h (122 kn)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [16.2, 0, 0.5, 0]
+    }
   },
   "🥌": {
     "tags": ["objects"],
@@ -375,7 +435,10 @@
         "url": "https://en.wikipedia.org/wiki/Curling",
         "description": "A regulation curling stone has a minimum height of 11.4 cm (4.5 in)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [10.8, 0, 10.5, 0]
+    }
   },
   "🪳": {
     "tags": ["animals"],
@@ -393,7 +456,10 @@
         "url": "https://en.wikipedia.org/wiki/American_cockroach",
         "description": "An American cockroach is about 4 cm long and can run at 5.4 km/h — roughly 50 body lengths per second."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [3.7, 8.8, 3.8, 8.8]
+    }
   },
   "🦅": {
     "tags": ["animals"],
@@ -411,7 +477,10 @@
         "url": "https://en.wikipedia.org/wiki/Bald_eagle",
         "description": "A bald eagle stands roughly 61 cm tall (body length 70-102 cm, wingspan up to ~2.3 m); it glides at 56-70 km/h and can dive at 120-160 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [3, 0, 0, 0]
+    }
   },
   "🧌": {
     "tags": ["animals"],
@@ -426,7 +495,10 @@
         "url": "https://harrypotter.fandom.com/wiki/Mountain_troll",
         "description": "A mountain troll in the Harry Potter universe stands twelve feet (about 366 cm) tall, the largest breed of troll."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 8, 0.5, 7.5]
+    }
   },
   "🏀": {
     "tags": ["objects"],
@@ -441,7 +513,10 @@
         "url": "https://en.wikipedia.org/wiki/Basketball_(ball)",
         "description": "A regulation size 7 basketball is about 24 cm in diameter (circumference ~75 cm)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.7, 1, 1.5, 2.3]
+    }
   },
   "⚽": {
     "tags": ["objects"],
@@ -456,7 +531,10 @@
         "url": "https://en.wikipedia.org/wiki/Ball_(association_football)",
         "description": "A regulation size 5 football is about 22 cm in diameter (circumference 68-70 cm)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [2.5, 2, 1.8, 2.5]
+    }
   },
   "🎾": {
     "tags": ["objects"],
@@ -471,7 +549,10 @@
         "url": "https://en.wikipedia.org/wiki/Tennis_ball",
         "description": "A regulation tennis ball is 6.54-6.86 cm in diameter (about 6.7 cm)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [3.7, 1.8, 1, 3]
+    }
   },
   "⚾": {
     "tags": ["objects"],
@@ -486,7 +567,10 @@
         "url": "https://en.wikipedia.org/wiki/Baseball_(ball)",
         "description": "A regulation baseball is about 7.4 cm in diameter (circumference 22.9-23.5 cm)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 0.5, 0, 1.8]
+    }
   },
   "🐢": {
     "tags": ["animals"],
@@ -504,7 +588,10 @@
         "url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_tortoise",
         "description": "A Galápagos giant tortoise stands roughly 80 cm tall overall (recorded shell lengths reach ~1.3-1.5 m) and ambles at about 0.3 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [19, 1.3, 0, 2]
+    }
   },
   "🎧": {
     "tags": ["objects"],
@@ -519,7 +606,10 @@
         "url": "https://support.apple.com/en-us/111858",
         "description": "Apple's official tech specs list the AirPods Max height as 187.3 mm (18.7 cm), including cushions."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 6.8, 1.2, 6.8]
+    }
   },
   "👠": {
     "tags": ["objects"],
@@ -534,7 +624,10 @@
         "url": "https://en.wikipedia.org/wiki/Stiletto_heel",
         "description": "A typical stiletto heel is about 9-10 cm tall; the shoe as it stands reaches roughly 12 cm at the top of the heel counter."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.7, 1.8, 2, 3.2]
+    }
   },
   "🌮": {
     "tags": ["objects"],
@@ -549,7 +642,10 @@
         "url": "https://en.wikipedia.org/wiki/Taco",
         "description": "A standard taco uses a ~15 cm tortilla; folded and filled it stands roughly 8 cm tall."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [6.8, 0.5, 4.2, 0.5]
+    }
   },
   "🎢": {
     "tags": ["objects"],
@@ -567,7 +663,10 @@
         "url": "https://en.wikipedia.org/wiki/Falcons_Flight",
         "description": "Falcon's Flight at Six Flags Qiddiya City stands 163 m tall and reaches 250 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.7, 0, 0, 3.7]
+    }
   },
   "🍣": {
     "tags": ["objects"],
@@ -582,7 +681,10 @@
         "url": "https://en.wikipedia.org/wiki/Sushi",
         "description": "A piece of nigiri sushi sits about 3 cm tall (rice base ~1.5-2 cm plus the fish topping)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [11.3, 0.5, 6.3, 1.3]
+    }
   },
   "🦠": {
     "tags": ["animals"],
@@ -595,7 +697,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 1.3, 0.3, 1.8]
+    }
   },
   "🧬": {
     "tags": ["nature"],
@@ -608,7 +713,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 0, 0, 0]
+    }
   },
   "🦟": {
     "tags": ["animals"],
@@ -626,7 +734,10 @@
         "url": "https://en.wikipedia.org/wiki/Mosquito",
         "description": "A mosquito is a weak flyer, managing only about 1-1.5 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [2.5, 1, 2.3, 2.5]
+    }
   },
   "🐜": {
     "tags": ["animals"],
@@ -648,7 +759,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 0, 0.5, 0.8]
+    }
   },
   "🪰": {
     "tags": ["animals"],
@@ -666,7 +780,10 @@
         "url": "https://en.wikipedia.org/wiki/Housefly",
         "description": "A housefly cruises at about 7 km/h (4.5 mph), with brief bursts up to ~24 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.7, 5, 0.5, 5]
+    }
   },
   "🐞": {
     "tags": ["animals"],
@@ -684,7 +801,10 @@
         "url": "https://phys.org/news/2014-01-radar-reveals-extraordinary-ladybird-flight.html",
         "description": "Radar tracking has found ladybirds flying at up to 60 km/h (averaging ~30 km/h), often at altitudes of 150-500 m."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [5, 4.5, 4.8, 4.5]
+    }
   },
   "🐝": {
     "tags": ["animals"],
@@ -702,7 +822,10 @@
         "url": "https://en.wikipedia.org/wiki/Western_honey_bee",
         "description": "A honeybee flies at about 24 km/h (15 mph), slower when laden with nectar or pollen."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 1.8, 0.8, 2.5]
+    }
   },
   "🎲": {
     "tags": ["objects"],
@@ -715,7 +838,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [2.5, 1.3, 0.5, 1.3]
+    }
   },
   "💍": {
     "tags": ["objects"],
@@ -728,7 +854,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 2.5, 0, 5]
+    }
   },
   "🦷": {
     "tags": ["animals"],
@@ -741,7 +870,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 2.5, 0, 3]
+    }
   },
   "📎": {
     "tags": ["objects"],
@@ -754,7 +886,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.7, 0.8, 0, 1.8]
+    }
   },
   "🌸": {
     "tags": ["nature"],
@@ -767,7 +902,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 0, 0, 0]
+    }
   },
   "🍀": {
     "tags": ["nature"],
@@ -780,7 +918,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 5.7, 1.8, 5]
+    }
   },
   "🐌": {
     "tags": ["animals"],
@@ -798,7 +939,10 @@
         "url": "https://en.wikipedia.org/wiki/Cornu_aspersum",
         "description": "A garden snail (Cornu aspersum) has a recorded maximum speed of about 0.047 km/h (roughly 1.3 cm/s)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [11.3, 0, 2.5, 0.8]
+    }
   },
   "💋": {
     "tags": ["animals"],
@@ -811,7 +955,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [12, 7, 13.8, 7.5]
+    }
   },
   "💳": {
     "tags": ["objects"],
@@ -824,7 +971,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [17.5, 0.5, 17.5, 0.8]
+    }
   },
   "🍪": {
     "tags": ["objects"],
@@ -837,7 +987,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [7.5, 3.2, 4.2, 3]
+    }
   },
   "🥚": {
     "tags": ["objects"],
@@ -850,7 +1003,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [3, 11.8, 3, 11.8]
+    }
   },
   "🐁": {
     "tags": ["animals"],
@@ -868,7 +1024,10 @@
         "url": "https://en.wikipedia.org/wiki/House_mouse",
         "description": "A house mouse can run at up to about 13 km/h (8 mph)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [11.3, 0, 1.2, 0.5]
+    }
   },
   "💶": {
     "tags": ["objects"],
@@ -881,7 +1040,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [16.2, 1.3, 18.5, 1.3]
+    }
   },
   "🐥": {
     "tags": ["animals"],
@@ -894,7 +1056,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [3, 2.5, 1.8, 1.3]
+    }
   },
   "☕️": {
     "tags": ["objects"],
@@ -907,7 +1072,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [5, 1.3, 11, 0.5]
+    }
   },
   "📷": {
     "tags": ["objects"],
@@ -922,7 +1090,10 @@
         "url": "https://www.fujifilm-x.com/global/products/cameras/x100vi/specifications/",
         "description": "A Fujifilm X100VI compact camera is 74.8 mm (7.5 cm) tall."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [24.5, 0.5, 6.8, 0.8]
+    }
   },
   "💌": {
     "tags": ["objects"],
@@ -935,7 +1106,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [18.3, 1.3, 17.3, 1.3]
+    }
   },
   "🫀": {
     "tags": ["animals"],
@@ -950,7 +1124,10 @@
         "url": "https://en.wikipedia.org/wiki/Heart",
         "description": "The average adult human heart is about 12 cm in length (roughly the size of a fist)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 17.5, 2.5, 14.3]
+    }
   },
   "🌷": {
     "tags": ["nature"],
@@ -963,7 +1140,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.7, 13.8, 0, 10.5]
+    }
   },
   "🧉": {
     "tags": ["objects"],
@@ -976,7 +1156,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 7.3, 1.2, 15.5]
+    }
   },
   "🐠": {
     "tags": ["animals"],
@@ -989,7 +1172,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [6.3, 1.3, 7, 0.5]
+    }
   },
   "📏": {
     "tags": ["objects"],
@@ -1002,7 +1188,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 0.5, 0.5, 0.5]
+    }
   },
   "🧠": {
     "tags": ["animals"],
@@ -1015,7 +1204,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [10, 0, 6.8, 0.5]
+    }
   },
   "📱": {
     "tags": ["objects"],
@@ -1028,7 +1220,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 22.5, 0, 23]
+    }
   },
   "🍶": {
     "tags": ["objects"],
@@ -1041,7 +1236,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 11.2, 0, 3]
+    }
   },
   "👌": {
     "tags": ["animals"],
@@ -1054,7 +1252,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 11.8, 1.2, 13.8]
+    }
   },
   "🍺": {
     "tags": ["objects"],
@@ -1067,7 +1268,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.7, 2.5, 1.2, 12.5]
+    }
   },
   "🍌": {
     "tags": ["objects"],
@@ -1080,7 +1284,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.7, 7.5, 0.5, 6.8]
+    }
   },
   "💻": {
     "tags": ["objects"],
@@ -1093,7 +1300,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.7, 1.8, 0.8, 1.8]
+    }
   },
   "🫁": {
     "tags": ["animals"],
@@ -1106,7 +1316,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [4.2, 1.8, 4.2, 1.8]
+    }
   },
   "🐈": {
     "tags": ["animals"],
@@ -1124,7 +1337,10 @@
         "url": "https://en.wikipedia.org/wiki/Cat",
         "description": "A domestic cat can sprint at up to about 48 km/h (30 mph) over short distances."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [4.5, 1.3, 0, 0]
+    }
   },
   "🫪": {
     "tags": ["animals"],
@@ -1137,7 +1353,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [4.5, 4.5, 4.5, 4.5]
+    }
   },
   "💪": {
     "tags": ["animals"],
@@ -1150,7 +1369,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 1.8, 1.2, 7.5]
+    }
   },
   "🐡": {
     "tags": ["animals"],
@@ -1168,7 +1390,10 @@
         "url": "https://simple.wikipedia.org/wiki/Pufferfish",
         "description": "Pufferfish are slow swimmers, propelling themselves with their fins at up to about 3 body lengths per second — roughly 3 km/h for a 30 cm fish."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [5.7, 0.5, 5, 0.5]
+    }
   },
   "🐓": {
     "tags": ["animals"],
@@ -1186,7 +1411,10 @@
         "url": "https://www.newlifeonahomestead.com/how-fast-can-a-chicken-run/",
         "description": "A domestic rooster stands roughly 35 cm tall and can run at about 14 km/h (≈9 mph), with faster birds reaching well above that."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [3.7, 1.3, 0.5, 6.3]
+    }
   },
   "🐇": {
     "tags": ["animals"],
@@ -1204,7 +1432,10 @@
         "url": "https://en.wikipedia.org/wiki/European_rabbit",
         "description": "A European rabbit can run at up to about 56 km/h (35 mph) to escape predators."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 0.8, 0.8, 3]
+    }
   },
   "🦆": {
     "tags": ["animals"],
@@ -1222,7 +1453,10 @@
         "url": "https://en.wikipedia.org/wiki/Mallard",
         "description": "A mallard cruises at 40-60 km/h and can reach about 90 km/h in fast flight."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [3, 2.5, 2.5, 0]
+    }
   },
   "🔥": {
     "tags": ["nature"],
@@ -1235,7 +1469,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 10.5, 0, 11.8]
+    }
   },
   "🪎": {
     "tags": ["objects"],
@@ -1248,7 +1485,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [3.7, 5, 3.8, 5.7]
+    }
   },
   "🐩": {
     "tags": ["animals"],
@@ -1266,7 +1506,10 @@
         "url": "https://en.wikipedia.org/wiki/Poodle",
         "description": "A fit standard poodle, bred as an athletic water retriever, can run at roughly 45 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 0, 0.5, 0.5]
+    }
   },
   "🖥️": {
     "tags": ["objects"],
@@ -1279,7 +1522,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [11.3, 0, 0.5, 0]
+    }
   },
   "🦉": {
     "tags": ["animals"],
@@ -1297,7 +1543,10 @@
         "url": "https://en.wikipedia.org/wiki/Great_horned_owl",
         "description": "A great horned owl can fly at more than 65 km/h (40 mph) in level flight."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 15.5, 0.8, 17.5]
+    }
   },
   "🐒": {
     "tags": ["animals"],
@@ -1315,7 +1564,10 @@
         "url": "https://a-z-animals.com/animals/rhesus-macaque/",
         "description": "A rhesus macaque can run at up to about 32 km/h (20 mph)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 0.5, 0, 5.7]
+    }
   },
   "🐕": {
     "tags": ["animals"],
@@ -1333,7 +1585,10 @@
         "url": "https://en.wikipedia.org/wiki/Dog",
         "description": "An average healthy dog runs at about 24-32 km/h; the fastest breeds, like greyhounds, reach ~72 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 1.3, 0, 1.3]
+    }
   },
   "🐐": {
     "tags": ["animals"],
@@ -1351,7 +1606,10 @@
         "url": "https://en.wikipedia.org/wiki/Goat",
         "description": "A goat can run at roughly 24 km/h (15 mph)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [13.7, 10, 0, 1.3]
+    }
   },
   "🐖": {
     "tags": ["animals"],
@@ -1369,7 +1627,10 @@
         "url": "https://en.wikipedia.org/wiki/Domestic_pig",
         "description": "A domestic pig can run at up to about 19 km/h (12 mph) in short sprints."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [34.3, 1.8, 3.3, 0.5]
+    }
   },
   "🦤": {
     "tags": ["animals"],
@@ -1382,7 +1643,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 2.5, 0, 2.5]
+    }
   },
   "🦦": {
     "tags": ["animals"],
@@ -1400,7 +1664,10 @@
         "url": "https://en.wikipedia.org/wiki/North_American_river_otter",
         "description": "A North American river otter can swim at up to about 13 km/h (8 mph)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [15, 0.8, 5, 2]
+    }
   },
   "🐆": {
     "tags": ["animals"],
@@ -1418,7 +1685,10 @@
         "url": "https://en.wikipedia.org/wiki/Leopard",
         "description": "A leopard can sprint at up to about 58 km/h (36 mph) in short bursts."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [18.3, 0, 3.8, 0]
+    }
   },
   "🦩": {
     "tags": ["animals"],
@@ -1436,7 +1706,10 @@
         "url": "https://en.wikipedia.org/wiki/Flamingo",
         "description": "A flamingo flies at about 50-60 km/h on migration."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 13.3, 0, 15]
+    }
   },
   "🐅": {
     "tags": ["animals"],
@@ -1454,7 +1727,10 @@
         "url": "https://en.wikipedia.org/wiki/Tiger",
         "description": "A tiger can reach roughly 49-65 km/h in a short charge."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [33, 0, 4.2, 0]
+    }
   },
   "🦌": {
     "tags": ["animals"],
@@ -1472,7 +1748,10 @@
         "url": "https://en.wikipedia.org/wiki/White-tailed_deer",
         "description": "A white-tailed deer can sprint at up to about 60 km/h (37 mph)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 3, 0.8, 2.5]
+    }
   },
   "🦚": {
     "tags": ["animals"],
@@ -1490,7 +1769,10 @@
         "url": "https://en.wikipedia.org/wiki/Indian_peafowl",
         "description": "An Indian peafowl runs at about 16 km/h and can manage short bursts of flight around 30 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [5.7, 0.5, 0.8, 0.5]
+    }
   },
   "🦛": {
     "tags": ["animals"],
@@ -1508,7 +1790,10 @@
         "url": "https://en.wikipedia.org/wiki/Hippopotamus",
         "description": "A hippopotamus can run at about 30 km/h (19 mph) on land over short distances."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [41.3, 0.3, 6.3, 1.3]
+    }
   },
   "🦧": {
     "tags": ["animals"],
@@ -1526,7 +1811,10 @@
         "url": "https://a-z-animals.com/animals/orangutan/",
         "description": "Orangutans are built for the trees; on the ground they amble at only about 1.6 km/h (1 mph)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [2.2, 1.3, 0.8, 0]
+    }
   },
   "💃": {
     "tags": ["animals"],
@@ -1539,7 +1827,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 2.5, 0, 4.2]
+    }
   },
   "🐄": {
     "tags": ["animals"],
@@ -1557,7 +1848,10 @@
         "url": "https://en.wikipedia.org/wiki/Cattle",
         "description": "A cow can run at up to about 40 km/h (25 mph) in short bursts."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [13, 0.8, 5, 1.5]
+    }
   },
   "🦘": {
     "tags": ["animals"],
@@ -1575,7 +1869,10 @@
         "url": "https://en.wikipedia.org/wiki/Red_kangaroo",
         "description": "A red kangaroo cruises at 20-25 km/h, sustains 40 km/h, and can hop at up to about 70 km/h over short distances."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [16.2, 0.8, 5.3, 1.5]
+    }
   },
   "🐎": {
     "tags": ["animals"],
@@ -1593,7 +1890,10 @@
         "url": "https://en.wikipedia.org/wiki/Canter_and_gallop",
         "description": "A galloping horse averages 40-48 km/h; a racing Thoroughbred has been clocked around 70 km/h over a sprint."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [6.8, 0, 2.5, 0]
+    }
   },
   "🏃": {
     "tags": ["animals"],
@@ -1611,7 +1911,10 @@
         "url": "https://marathonhandbook.com/average-running-speed/",
         "description": "A typical recreational runner jogs at about 8-10 km/h; elite sprinters peak near 45 km/h, but that's far from a normal running pace."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [5.7, 10, 4.2, 6.8]
+    }
   },
   "🦙": {
     "tags": ["animals"],
@@ -1629,7 +1932,10 @@
         "url": "https://en.wikipedia.org/wiki/Llama",
         "description": "A llama can run at up to about 56 km/h (35 mph)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 11.2, 1, 8]
+    }
   },
   "🦍": {
     "tags": ["animals"],
@@ -1647,7 +1953,10 @@
         "url": "https://en.wikipedia.org/wiki/Gorilla",
         "description": "A gorilla can sprint at up to about 40 km/h (25 mph) during a charge."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 0.5, 0.5, 0.5]
+    }
   },
   "🐫": {
     "tags": ["animals"],
@@ -1665,7 +1974,10 @@
         "url": "https://en.wikipedia.org/wiki/Camel",
         "description": "A camel can reach about 65 km/h (40 mph) in short sprints and sustain ~40 km/h for an hour."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [20, 1.3, 0, 0]
+    }
   },
   "🚗": {
     "tags": ["objects"],
@@ -1683,7 +1995,10 @@
         "url": "https://en.wikipedia.org/wiki/Volkswagen_Beetle",
         "description": "Taking a classic VW Beetle as a representative car, the top speed is about 130 km/h (≈82 mph for the 1300/1500 models)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [18.8, 0, 3, 0]
+    }
   },
   "🌻": {
     "tags": ["nature"],
@@ -1696,7 +2011,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 5.7, 0, 11.2]
+    }
   },
   "🦏": {
     "tags": ["animals"],
@@ -1714,7 +2032,10 @@
         "url": "https://en.wikipedia.org/wiki/White_rhinoceros",
         "description": "A white rhinoceros can charge at about 50 km/h (31 mph) over short distances."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [20.8, 1.3, 3.8, 1]
+    }
   },
   "🦬": {
     "tags": ["animals"],
@@ -1732,7 +2053,10 @@
         "url": "https://en.wikipedia.org/wiki/American_bison",
         "description": "An American bison can run at up to about 56 km/h (35 mph) despite weighing close to a tonne."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [14.2, 0.5, 10.5, 0.5]
+    }
   },
   "🧜‍♀️": {
     "tags": ["animals"],
@@ -1745,7 +2069,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 3.7, 1.2, 1.8]
+    }
   },
   "🚪": {
     "tags": ["objects"],
@@ -1758,7 +2085,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 20.5, 0, 20.5]
+    }
   },
   "🫈": {
     "tags": ["animals"],
@@ -1776,7 +2106,10 @@
         "url": "https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film",
         "description": "Analyses of the 1967 Patterson-Gimlin film estimate the figure was walking at about 9 km/h (5.7 mph)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [3.7, 16.7, 3, 18.3]
+    }
   },
   "🚒": {
     "tags": ["objects"],
@@ -1794,7 +2127,10 @@
         "url": "https://www.firerescuetruck.com/what-is-the-top-speed-of-a-fire-truck/",
         "description": "A standard urban fire engine (pumper) reaches a top speed of roughly 100 km/h (≈60-65 mph); most are governed around that figure."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [7.5, 1.3, 3, 0.5]
+    }
   },
   "⛩️": {
     "tags": ["landmarks"],
@@ -1807,7 +2143,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [5.5, 0, 0, 0]
+    }
   },
   "🐘": {
     "tags": ["animals"],
@@ -1825,7 +2164,10 @@
         "url": "https://en.wikipedia.org/wiki/African_bush_elephant",
         "description": "An African bush elephant can move at up to about 40 km/h (25 mph) in a short charge."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [15, 5, 8.2, 3]
+    }
   },
   "🦣": {
     "tags": ["animals"],
@@ -1843,7 +2185,10 @@
         "url": "https://en.wikipedia.org/wiki/Woolly_mammoth",
         "description": "A large male woolly mammoth stood about 3.35 m tall; its estimated top speed is roughly 40 km/h, like an elephant."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [11.8, 0.8, 11.8, 1.3]
+    }
   },
   "🚝": {
     "tags": ["objects"],
@@ -1861,7 +2206,10 @@
         "url": "https://en.wikipedia.org/wiki/Monorail",
         "description": "Urban transit monorails reach top speeds around 80 km/h (e.g. Bologna's Marconi Express); theme-park and airport shuttles run slower."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [6.8, 0, 0, 0]
+    }
   },
   "🗿": {
     "tags": ["landmarks"],
@@ -1874,7 +2222,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.7, 17.5, 1, 15]
+    }
   },
   "🚂": {
     "tags": ["objects"],
@@ -1892,7 +2243,10 @@
         "url": "https://en.wikipedia.org/wiki/Mallard_(locomotive)",
         "description": "The LNER Mallard set the steam locomotive speed record of 203 km/h (126 mph) in 1938."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 0, 2.5, 0]
+    }
   },
   "🛘": {
     "tags": ["nature"],
@@ -1910,7 +2264,10 @@
         "url": "https://en.wikipedia.org/wiki/1970_Huascar%C3%A1n_debris_avalanche",
         "description": "The 1970 Huascarán debris avalanche reached speeds of up to about 435 km/h (270 mph), one of the fastest mass movements recorded."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [15, 0.8, 1.2, 0.8]
+    }
   },
   "🚜": {
     "tags": ["objects"],
@@ -1928,7 +2285,10 @@
         "url": "https://farmingbase.com/how-fast-can-a-tractor-go/",
         "description": "A modern road-going farm tractor tops out around 50 km/h (≈31 mph); field work is done far slower."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [10, 0, 2.5, 1.3]
+    }
   },
   "🦒": {
     "tags": ["animals"],
@@ -1946,7 +2306,10 @@
         "url": "https://en.wikipedia.org/wiki/Giraffe",
         "description": "A giraffe can gallop at up to about 60 km/h over short distances (cruising nearer 16 km/h)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 6.3, 0.3, 5]
+    }
   },
   "🦖": {
     "tags": ["animals"],
@@ -1964,7 +2327,10 @@
         "url": "https://en.wikipedia.org/wiki/Tyrannosaurus",
         "description": "Biomechanical studies estimate Tyrannosaurus rex topped out at roughly 20-30 km/h — a fast walk rather than a true run."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [7.5, 0, 6.3, 0.5]
+    }
   },
   "🫍": {
     "tags": ["animals"],
@@ -1982,7 +2348,10 @@
         "url": "https://en.wikipedia.org/wiki/Killer_whale",
         "description": "An orca can reach burst speeds of about 55 km/h (34 mph) when hunting, making it one of the fastest marine mammals."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.7, 7.3, 1.5, 6.3]
+    }
   },
   "🏠": {
     "tags": ["landmarks"],
@@ -1995,7 +2364,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [2.5, 3.2, 1.8, 3.2]
+    }
   },
   "🛩️": {
     "tags": ["objects"],
@@ -2013,7 +2385,10 @@
         "url": "https://en.wikipedia.org/wiki/Cessna_172",
         "description": "Taking a Cessna 172 as a representative small airplane, it cruises at about 226 km/h (122 kn)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [3.2, 0, 5, 0]
+    }
   },
   "🌴": {
     "tags": ["nature"],
@@ -2026,7 +2401,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.7, 6.3, 0.5, 5]
+    }
   },
   "🚎": {
     "tags": ["objects"],
@@ -2044,7 +2422,10 @@
         "url": "https://en.wikipedia.org/wiki/Trolleybus",
         "description": "A trolleybus usually tops out around 60-65 km/h, with some designs reaching 80 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 0.5, 2.5, 0]
+    }
   },
   "🌵": {
     "tags": ["nature"],
@@ -2057,7 +2438,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 14.5, 0.5, 12.5]
+    }
   },
   "🚌": {
     "tags": ["objects"],
@@ -2075,7 +2459,10 @@
         "url": "https://en.wikipedia.org/wiki/Bus",
         "description": "A conventional bus is typically governed to around 100 km/h on motorways (lower with standing passengers)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [5.5, 0, 2.7, 0]
+    }
   },
   "🕍": {
     "tags": ["landmarks"],
@@ -2088,7 +2475,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 0, 0, 0]
+    }
   },
   "🕋": {
     "tags": ["landmarks"],
@@ -2101,7 +2491,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [3, 2, 3, 2.5]
+    }
   },
   "🚋": {
     "tags": ["objects"],
@@ -2119,7 +2512,10 @@
         "url": "https://en.wikipedia.org/wiki/Tram",
         "description": "A tram runs at 30-50 km/h in street traffic but can reach about 80 km/h on segregated track."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [21.8, 0, 1.8, 0.5]
+    }
   },
   "🦕": {
     "tags": ["animals"],
@@ -2137,7 +2533,10 @@
         "url": "https://dinoproject.blogs.bristol.ac.uk/2021/01/12/how-fast/",
         "description": "Fossil trackways indicate sauropods generally ambled at about 3-5 km/h, rarely exceeding ~7 km/h."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 0.3, 0.5, 1.3]
+    }
   },
   "🐉": {
     "tags": ["animals"],
@@ -2155,7 +2554,10 @@
         "url": "https://archive.nerdist.com/game-of-thrones-daenerys-dragons-fly-fast-math-geography/",
         "description": "Fictional: analysis of Game of Thrones flight times suggests the dragons cruised around 140 mph (~226 km/h), about as fast as a small airliner."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 0, 1.2, 0]
+    }
   },
   "🏛": {
     "tags": ["landmarks"],
@@ -2168,7 +2570,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 0.5, 0, 0]
+    }
   },
   "🐋": {
     "tags": ["animals"],
@@ -2186,7 +2591,10 @@
         "url": "https://en.wikipedia.org/wiki/Blue_whale",
         "description": "A blue whale cruises at 3-6 km/h but can burst to around 35 km/h when threatened."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 2.5, 1.8, 1.8]
+    }
   },
   "🛫": {
     "tags": ["objects"],
@@ -2204,7 +2612,10 @@
         "url": "https://en.wikipedia.org/wiki/Boeing_747",
         "description": "A Boeing 747 jetliner cruises at about Mach 0.85, roughly 900 km/h (490 kn)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [35.8, 1.8, 0, 0]
+    }
   },
   "🗽": {
     "tags": ["landmarks"],
@@ -2217,7 +2628,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 13.8, 0, 18.8]
+    }
   },
   "🏯": {
     "tags": ["landmarks"],
@@ -2230,7 +2644,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 4.5, 0, 1.3]
+    }
   },
   "🏟": {
     "tags": ["landmarks"],
@@ -2243,7 +2660,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [11.8, 3, 0.5, 3.7]
+    }
   },
   "🏰": {
     "tags": ["landmarks"],
@@ -2256,7 +2676,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.7, 1.3, 0, 1.8]
+    }
   },
   "🛰️": {
     "tags": ["objects"],
@@ -2274,7 +2697,10 @@
         "url": "https://en.wikipedia.org/wiki/International_Space_Station",
         "description": "The International Space Station orbits Earth at about 27,600 km/h (7.66 km/s)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [8.3, 0.5, 6.8, 0.5]
+    }
   },
   "🕌": {
     "tags": ["landmarks"],
@@ -2287,7 +2713,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 1.3, 1.2, 1.3]
+    }
   },
   "🎡": {
     "tags": ["landmarks"],
@@ -2297,15 +2726,15 @@
         "values": {
           "height": {
             "value": 16770
-          },
-          "speed": {
-            "value": 1.1
           }
         },
         "url": "https://en.wikipedia.org/wiki/High_Roller_(Ferris_wheel)",
-        "description": "Las Vegas's High Roller stands 167.6 m tall and turns at about 1.1 km/h, completing a rotation in 30 minutes."
+        "description": "Las Vegas's High Roller stands 167.6 m tall."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 5, 0, 3.7]
+    }
   },
   "🗼": {
     "tags": ["landmarks"],
@@ -2318,7 +2747,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 18.8, 0.5, 18]
+    }
   },
   "🏔️": {
     "tags": ["nature"],
@@ -2331,7 +2763,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [23.5, 1.3, 1.2, 0.8]
+    }
   },
   "🌋": {
     "tags": ["nature"],
@@ -2344,7 +2779,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 0.5, 1.5, 0.8]
+    }
   },
   "🗻": {
     "tags": ["nature"],
@@ -2357,7 +2795,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [40.5, 2.5, 1.2, 2.5]
+    }
   },
   "⛰️": {
     "tags": ["nature"],
@@ -2370,7 +2811,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [24.5, 1.3, 0, 0.5]
+    }
   },
   "🗾": {
     "tags": ["landmarks"],
@@ -2383,7 +2827,10 @@
           }
         }
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 0.5, 0, 0]
+    }
   },
   "🌝": {
     "tags": ["nature"],
@@ -2401,7 +2848,10 @@
         "url": "https://en.wikipedia.org/wiki/Orbit_of_the_Moon",
         "description": "The Moon orbits Earth at about 3,683 km/h (1.022 km/s)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [2.5, 1.3, 1.2, 2]
+    }
   },
   "🌎": {
     "tags": ["nature"],
@@ -2419,7 +2869,10 @@
         "url": "https://en.wikipedia.org/wiki/Earth%27s_orbit",
         "description": "Earth orbits the Sun at an average speed of about 107,200 km/h (29.78 km/s)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 0.8, 0.8, 1.3]
+    }
   },
   "🪐": {
     "tags": ["nature"],
@@ -2437,7 +2890,10 @@
         "url": "https://en.wikipedia.org/wiki/Saturn",
         "description": "Saturn orbits the Sun at an average speed of about 34,800 km/h (9.68 km/s)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 0.5, 0.5, 0.8]
+    }
   },
   "🌞": {
     "tags": ["nature"],
@@ -2455,7 +2911,10 @@
         "url": "https://en.wikipedia.org/wiki/Galactic_year",
         "description": "The Sun orbits the center of the Milky Way at about 828,000 km/h (~230 km/s)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0, 0, 0, 0]
+    }
   },
   "⚡": {
     "tags": ["nature"],
@@ -2470,7 +2929,10 @@
         "url": "https://www.weather.gov/safety/lightning-science-negative-charged-flash",
         "description": "Lightning's return stroke travels at about 321,868,800 km/h; its initial leader is slower. This is not light speed."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.5, 15, 0.8, 15.5]
+    }
   },
   "💡": {
     "tags": ["nature"],
@@ -2485,7 +2947,10 @@
         "url": "https://physics.nist.gov/cuu/Constants/Value/c.html",
         "description": "Light in vacuum travels at exactly 299,792,458 m/s (the constant c). The universe’s speed limit."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [2, 21.3, 1.8, 21.3]
+    }
   },
   "🌌": {
     "tags": ["nature"],
@@ -2503,12 +2968,13 @@
         "url": "https://en.wikipedia.org/wiki/Milky_Way",
         "description": "The Milky Way moves at about 1,987,000 km/h (552 km/s) relative to the cosmic microwave background."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [0.7, 1.3, 1.2, 1.3]
+    }
   },
   "🪱": {
-    "tags": [
-      "animals"
-    ],
+    "tags": ["animals"],
     "name": "Earthworm",
     "sources": [
       {
@@ -2520,12 +2986,24 @@
         "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003472",
         "description": "A study of 18 earthworms found an average surface crawling speed of about 30 cm/min (0.018 km/h)."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [5, 5, 4.2, 8]
+    }
   },
   "🪼": {
     "tags": ["animals"],
     "name": "Jellyfish",
     "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 40
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Aurelia_aurita",
+        "description": "A moon jelly can reach about 40 cm across its bell; diameter is used as its representative size."
+      },
       {
         "values": {
           "speed": {
@@ -2535,14 +3013,24 @@
         "url": "https://www.caltech.edu/about/news/bionic-jellyfish-swim-faster-and-more-efficiently",
         "description": "Caltech reports typical jellyfish swimming at about 2 cm/s (0.072 km/h), excluding drifting or stimulation."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.2, 12.5, 2, 12.5]
+    }
   },
   "🕷️": {
-    "tags": [
-      "animals"
-    ],
+    "tags": ["animals"],
     "name": "Tarantula (10°C)",
     "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 6
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Grammostola",
+        "description": "Adult Grammostola tarantulas are roughly 6 cm in body length; body length is used rather than leg span."
+      },
       {
         "values": {
           "speed": {
@@ -2552,6 +3040,540 @@
         "url": "https://academic.oup.com/biolinnean/article/135/4/708/6517052",
         "description": "Male G. vachoni tarantulas averaged 4.12 cm/s (0.14832 km/h) in sprints at 10°C; warmer conditions affect speed."
       }
-    ]
+    ],
+    "boundingBox": {
+      "apple": [1.7, 8.3, 1, 8]
+    }
+  },
+  "☁️": {
+    "tags": ["nature"],
+    "name": "Cumulus Cloud",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 100000
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Cumulus_cloud",
+        "description": "Representative fair-weather cumulus cloud about 1 km from base to top; real cloud depth varies greatly."
+      }
+    ],
+    "boundingBox": {
+      "apple": [16.2, 1.3, 19.5, 3]
+    }
+  },
+  "⛲": {
+    "tags": ["landmarks"],
+    "name": "Jet d'Eau",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 15000
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Jet_d%27Eau",
+        "description": "Geneva's Jet d'Eau sends its water jet to an altitude of about 150 m."
+      }
+    ],
+    "boundingBox": {
+      "apple": [6.3, 0.5, 1.2, 0.5]
+    }
+  },
+  "⛴️": {
+    "tags": ["objects"],
+    "name": "Stena Hollandica Ferry",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 24087
+          },
+          "speed": {
+            "value": 40.7
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Stena_Hollandica",
+        "description": "The Stena Hollandica is 240.87 m long and has a maximum speed of 22 knots (about 40.7 km/h)."
+      }
+    ],
+    "boundingBox": {
+      "apple": [10, 0, 2.5, 1.3]
+    }
+  },
+  "⛵": {
+    "tags": ["objects"],
+    "name": "IMOCA 60 Sailboat",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 1829
+          }
+        },
+        "url": "https://www.imoca.org/en/imoca/class-rules",
+        "description": "IMOCA 60 racing yachts have a hull length of 60 ft (18.29 m)."
+      },
+      {
+        "values": {
+          "speed": {
+            "value": 65.5
+          }
+        },
+        "url": "https://www.imoca.org/en/news/news/new-24-hour-world-record-for-malizia-seaexplorer-and-boris-herrmann",
+        "description": "Malizia-Seaexplorer averaged about 35.4 knots (65.5 km/h) during its record 24-hour IMOCA run."
+      }
+    ],
+    "boundingBox": {
+      "apple": [0, 10.2, 1.2, 4.5]
+    }
+  },
+  "🌊": {
+    "tags": ["nature"],
+    "name": "Nazaré Wave",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 2621
+          }
+        },
+        "url": "https://www.guinnessworldrecords.com/world-records/78115-largest-wave-surfed-unlimited-male",
+        "description": "Sebastian Steudtner's record Nazaré wave was measured at 26.21 m high. Wave speed is omitted because it depends on depth and wavelength."
+      }
+    ],
+    "boundingBox": {
+      "apple": [16.2, 0, 0, 0]
+    }
+  },
+  "🍕": {
+    "tags": ["objects"],
+    "name": "Pizza",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 30.5
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Pizza_size",
+        "description": "A representative medium pizza is 12 in (about 30.5 cm) in diameter."
+      }
+    ],
+    "boundingBox": {
+      "apple": [1.7, 19.5, 0.8, 0.5]
+    }
+  },
+  "🎪": {
+    "tags": ["objects"],
+    "name": "Circus Big Top",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 1900
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Cirque_du_Soleil",
+        "description": "A Cirque du Soleil Grand Chapiteau big top stands about 19 m high."
+      }
+    ],
+    "boundingBox": {
+      "apple": [0, 3, 0.5, 3.7]
+    }
+  },
+  "🎱": {
+    "tags": ["objects"],
+    "name": "Eight Ball",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 5.715
+          }
+        },
+        "url": "https://wpapool.com/equipment-specifications/",
+        "description": "World Pool-Billiard Association pool balls are 2.25 in (57.15 mm) in diameter."
+      }
+    ],
+    "boundingBox": {
+      "apple": [1, 1.3, 2, 2.5]
+    }
+  },
+  "🐀": {
+    "tags": ["animals"],
+    "name": "Brown Rat",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 28
+          },
+          "speed": {
+            "value": 11
+          }
+        },
+        "url": "https://animalia.bio/brown-rat",
+        "description": "A brown rat reaches about 28 cm in head-and-body length and can run at roughly 11 km/h."
+      }
+    ],
+    "boundingBox": {
+      "apple": [19.3, 2.5, 4.2, 0.8]
+    }
+  },
+  "🐃": {
+    "tags": ["animals"],
+    "name": "Water Buffalo",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 133
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Water_buffalo",
+        "description": "Adult male water buffalo typically stand 129–133 cm at the withers."
+      },
+      {
+        "values": {
+          "speed": {
+            "value": 48
+          }
+        },
+        "url": "https://animalia.bio/water-buffalo",
+        "description": "Water buffalo can run at about 48 km/h (30 mph)."
+      }
+    ],
+    "boundingBox": {
+      "apple": [10.3, 0.8, 4.5, 1.3]
+    }
+  },
+  "🐛": {
+    "tags": ["animals"],
+    "name": "Forest Tent Caterpillar",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 5.5
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Forest_tent_caterpillar_moth",
+        "description": "A mature forest tent caterpillar is about 5–5.5 cm long."
+      }
+    ],
+    "boundingBox": {
+      "apple": [6.8, 0, 1.8, 0]
+    }
+  },
+  "🐟": {
+    "tags": ["animals"],
+    "name": "Atlantic Bluefin Tuna",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 460
+          },
+          "speed": {
+            "value": 70
+          }
+        },
+        "url": "https://www.fisheries.noaa.gov/species/atlantic-bluefin-tuna/about",
+        "description": "Atlantic bluefin tuna can reach about 4.6 m in length and swim at roughly 70 km/h (43 mph)."
+      }
+    ],
+    "boundingBox": {
+      "apple": [14.2, 4.2, 15, 4.5]
+    }
+  },
+  "🐿️": {
+    "tags": ["animals"],
+    "name": "Eastern Gray Squirrel",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 30
+          },
+          "speed": {
+            "value": 32
+          }
+        },
+        "url": "https://animalia.bio/eastern-gray-squirrel",
+        "description": "An eastern gray squirrel's body is about 23–30 cm long and it can sprint near 32 km/h."
+      }
+    ],
+    "boundingBox": {
+      "apple": [3, 0, 1.2, 0.5]
+    }
+  },
+  "💾": {
+    "tags": ["objects"],
+    "name": "3.5-inch Floppy Disk",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 9.4
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Floppy_disk",
+        "description": "The familiar 3.5-inch floppy disk cartridge is about 94 mm tall."
+      }
+    ],
+    "boundingBox": {
+      "apple": [0.5, 0.5, 0.5, 0.5]
+    }
+  },
+  "💿": {
+    "tags": ["objects"],
+    "name": "Compact Disc",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 12
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Compact_disc",
+        "description": "A standard compact disc is 120 mm in diameter."
+      }
+    ],
+    "boundingBox": {
+      "apple": [0.5, 0, 0.5, 0]
+    }
+  },
+  "🥑": {
+    "tags": ["objects"],
+    "name": "Hass Avocado",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 12
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Hass_avocado",
+        "description": "A representative Hass avocado is about 12 cm long; individual fruit size varies."
+      }
+    ],
+    "boundingBox": {
+      "apple": [0, 1.8, 0, 2]
+    }
+  },
+  "🦔": {
+    "tags": ["animals"],
+    "name": "European Hedgehog",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 26
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/European_hedgehog",
+        "description": "A large adult European hedgehog reaches about 26 cm in head-and-body length."
+      },
+      {
+        "values": {
+          "speed": {
+            "value": 9.7
+          }
+        },
+        "url": "https://animalia.bio/european-hedgehog",
+        "description": "European hedgehogs can run at about 9.7 km/h (6 mph)."
+      }
+    ],
+    "boundingBox": {
+      "apple": [26.7, 0.8, 5.5, 0.5]
+    }
+  },
+  "🦗": {
+    "tags": ["animals"],
+    "name": "Field Cricket",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 2.1
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Gryllus_bimaculatus",
+        "description": "An adult two-spotted field cricket is about 2–2.5 cm long."
+      }
+    ],
+    "boundingBox": {
+      "apple": [23.8, 1, 6.3, 0.5]
+    }
+  },
+  "🧄": {
+    "tags": ["objects"],
+    "name": "Garlic Bulb",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 6
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Garlic",
+        "description": "A representative mature garlic bulb is about 6 cm across."
+      }
+    ],
+    "boundingBox": {
+      "apple": [0.5, 3.7, 0.5, 3.7]
+    }
+  },
+  "🪿": {
+    "tags": ["animals"],
+    "name": "Canada Goose",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 110
+          },
+          "speed": {
+            "value": 65
+          }
+        },
+        "url": "https://animalia.bio/canada-goose",
+        "description": "A large Canada goose reaches about 110 cm in length and commonly flies around 65 km/h."
+      }
+    ],
+    "boundingBox": {
+      "apple": [3, 8.8, 1.2, 18.3]
+    }
+  },
+  "🫒": {
+    "tags": ["objects"],
+    "name": "Olive",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 3
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Olive",
+        "description": "A representative table olive is about 3 cm long; cultivar sizes vary."
+      }
+    ],
+    "boundingBox": {
+      "apple": [1.7, 7.5, 1.8, 4.2]
+    }
+  },
+  "🚟": {
+    "tags": ["landmarks"],
+    "name": "Wuppertal Suspension Railway",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 1330000
+          },
+          "speed": {
+            "value": 60
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Wuppertal_Schwebebahn",
+        "description": "The Wuppertal suspension railway is a 13.3 km system whose trains reach 60 km/h."
+      }
+    ],
+    "boundingBox": {
+      "apple": [10.5, 0, 11.8, 0]
+    }
+  },
+  "🚠": {
+    "tags": ["landmarks"],
+    "name": "Peak 2 Peak Gondola",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 440000
+          },
+          "speed": {
+            "value": 27
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Peak_2_Peak_Gondola",
+        "description": "Whistler's Peak 2 Peak Gondola spans 4.4 km and runs at 7.5 m/s (27 km/h)."
+      }
+    ],
+    "boundingBox": {
+      "apple": [0, 0, 0, 0]
+    }
+  },
+  "🚢": {
+    "tags": ["objects"],
+    "name": "Ever Given Container Ship",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 39994
+          },
+          "speed": {
+            "value": 42.2
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Ever_Given",
+        "description": "Ever Given is 399.94 m long and has a service speed of 22.8 knots (about 42.2 km/h)."
+      }
+    ],
+    "boundingBox": {
+      "apple": [5.5, 0, 3, 4.2]
+    }
+  },
+  "🛳️": {
+    "tags": ["objects"],
+    "name": "Icon of the Seas",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 36475
+          },
+          "speed": {
+            "value": 40.7
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Icon_of_the_Seas",
+        "description": "Icon of the Seas is 364.75 m long and has a maximum speed of 22 knots (about 40.7 km/h)."
+      }
+    ],
+    "boundingBox": {
+      "apple": [3.7, 0, 3, 3]
+    }
+  },
+  "🛶": {
+    "tags": ["objects"],
+    "name": "Sprint Canoe",
+    "sources": [
+      {
+        "values": {
+          "height": {
+            "value": 520
+          }
+        },
+        "url": "https://www.canoeicf.com/rules",
+        "description": "International sprint C-1 canoes have a maximum length of 5.2 m."
+      },
+      {
+        "values": {
+          "speed": {
+            "value": 18.8
+          }
+        },
+        "url": "https://en.wikipedia.org/wiki/Canoe_sprint",
+        "description": "Elite 200 m sprint-canoe performances around 38.3 seconds average roughly 18.8 km/h."
+      }
+    ],
+    "boundingBox": {
+      "apple": [20.5, 0.5, 0.5, 0.5]
+    }
   }
 }

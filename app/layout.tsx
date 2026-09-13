@@ -1,15 +1,16 @@
 import type { Metadata } from 'next';
 import Script from 'next/script';
-import localFont from 'next/font/local';
 import '../src/style.css';
 
-const brutalita = localFont({
-  src: '../src/Brutalita-400.woff2',
-  variable: '--font-brutalita',
-  weight: '400',
-  display: 'swap',
-  fallback: ['monospace'],
-});
+// Brutalita ships from its own site (github.com/javierbyte/brutalita), so the
+// @font-face lives in style.css rather than next/font. Preconnect + preload put
+// the fetch on the critical path anyway — a webfont referenced from a stylesheet
+// isn't discovered by the preload scanner until the CSS itself has parsed.
+const FONT_ORIGIN = 'https://brutalita.com';
+const FONT_URLS = [
+  `${FONT_ORIGIN}/font/Brutalita-Regular.woff2`,
+  `${FONT_ORIGIN}/font/Brutalita-SemiBold.woff2`,
+];
 
 const TITLE = 'Emoji to Scale';
 const DESCRIPTION = 'Your favorite emojis. To scale (more or less).';
@@ -51,7 +52,20 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={brutalita.variable}>
+    <html lang="en">
+      <head>
+        <link rel="preconnect" href={FONT_ORIGIN} crossOrigin="anonymous" />
+        {FONT_URLS.map((url) => (
+          <link
+            key={url}
+            rel="preload"
+            href={url}
+            as="font"
+            type="font/woff2"
+            crossOrigin="anonymous"
+          />
+        ))}
+      </head>
       <body>
         {children}
 

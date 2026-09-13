@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import EmojiToSpeedApp from '../../src/speed-app';
 import { getEmojiSpeedData } from '../../src/db';
 
@@ -38,15 +39,19 @@ export default function Page() {
 
       <header className="header header-left">
         <h1>Emoji to Speed</h1>
-        <a href="https://github.com/javierbyte/emoji-to-scale/tree/master/app/speed">
-          Source Code
-        </a>
-        {/* Plain <a>, not next/link, on purpose: the scale app sets
-            `document.body.style.height` without cleanup, so a client-side
-            navigation would leave that height behind and break this page's
-            scroll range (which comes purely from `.speed-display` flow). */}
-        <a href="/emoji-to-scale">Scale Version</a>
+        <div>
+          <Link href="/">Emoji to Scale</Link>
+        </div>
+        <div>
+          <a href="https://github.com/javierbyte/emoji-to-scale/tree/master/app/speed">
+            Source Code
+          </a>
+        </div>
       </header>
+
+      <main>
+        <EmojiToSpeedApp data={data} />
+      </main>
 
       <footer className="footer">
         <div className="footer-credit">
@@ -54,10 +59,6 @@ export default function Page() {
           <a href="https://javier.xyz">my website</a>. 2021-2026
         </div>
       </footer>
-
-      <main>
-        <EmojiToSpeedApp data={data} />
-      </main>
     </>
   );
 }

@@ -1,0 +1,37 @@
+{
+  "🌊": {
+    "status": "rejected",
+    "reason": "not-interesting",
+    "note": "Speed varies with wavelength and water depth; keep the sourced scale value only."
+  },
+  "🎱": {
+    "status": "rejected",
+    "reason": "no-useful-dimension",
+    "note": "A pool ball has a standard diameter but no intrinsic speed."
+  },
+  "🎡": {
+    "status": "rejected",
+    "reason": "no-useful-dimension",
+    "note": "Rotation rate is an operating cycle, not a useful travel speed."
+  },
+  "🐠": {
+    "status": "rejected",
+    "reason": "not-interesting",
+    "note": "The generic angelfish entry has no defensible comparable top-speed source."
+  },
+  "🐛": {
+    "status": "rejected",
+    "reason": "not-interesting",
+    "note": "Keep the sourced caterpillar length; the proposed crawl speed was not supported well enough."
+  },
+  "🐦‍🔥": {
+    "status": "rejected",
+    "reason": "no-useful-dimension",
+    "note": "A phoenix has no stable real-world or canonical physical measurement."
+  },
+  "🦗": {
+    "status": "rejected",
+    "reason": "not-interesting",
+    "note": "Keep the sourced cricket length; the proposed sprint value was not supported well enough."
+  }
+}

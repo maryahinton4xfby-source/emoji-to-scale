@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import EmojiToScaleApp from '../src/app';
 import { getEmojiData } from '../src/db';
 
@@ -10,23 +11,21 @@ export default function Page() {
 
       <header className="header header-left">
         <h1>Emoji to Scale</h1>
-        <a href="https://github.com/javierbyte/emoji-to-scale">Source Code</a>
-        <a href="https://www.youtube.com/watch?v=RiLBR6roAsM">YouTube Video</a>
-        <a href="https://javier.xyz/pokemon-to-scale">Pokémon Version</a>
-        <a href="https://javier.xyz/emoji-to-scale/speed">
-          Speed Version (New ✨)
-        </a>
-      </header>
-
-      <footer className="footer">
         <div>
-          Scroll <span className="footer-arrow">↕</span>
+          <Link href="/speed" className="header-link-featured">
+            Emoji to Speed (New!)
+          </Link>
         </div>
-        <div className="footer-credit">
-          by <a href="https://x.com/javierbyte">@javierbyte</a>, more in{' '}
-          <a href="https://javier.xyz">my website</a>. 2021-2026
+        <div>
+          <a href="https://github.com/javierbyte/emoji-to-scale">Source</a>
+          {', '}
+          <a href="https://www.youtube.com/watch?v=RiLBR6roAsM">
+            YouTube Video
+          </a>
+          {', '}
+          <a href="https://javier.xyz/pokemon-to-scale">Pokémon Version</a>
         </div>
-      </footer>
+      </header>
 
       <main>
         <noscript>
@@ -35,6 +34,14 @@ export default function Page() {
         </noscript>
         <EmojiToScaleApp data={data} />
       </main>
+
+      <footer className="footer">
+        <div>Scroll ↕</div>
+        <div className="footer-credit">
+          by <a href="https://x.com/javierbyte">@javierbyte</a>, more in{' '}
+          <a href="https://javier.xyz">my website</a>. 2021-2026
+        </div>
+      </footer>
     </>
   );
 }
